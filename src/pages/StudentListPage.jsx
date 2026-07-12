@@ -18,7 +18,7 @@ const STUDENTS = [
   { id: '114', name: 'Santhosh' },
   { id: '115', name: 'Selva' },
   { id: '116', name: 'Arul' },
-  { id: '117', name: '' },
+  
 ]
 
 export default function StudentListPage() {
